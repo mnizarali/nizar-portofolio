@@ -14,9 +14,9 @@
 
 }
 .nama-awal {
-  max-width: auto;
+  max-width: 100%;
   width: auto;
-  max-height: auto;
+  max-height: 100%;
   height: auto;
   font-family: 'Gluten', cursive;
   font-weight: 300;
